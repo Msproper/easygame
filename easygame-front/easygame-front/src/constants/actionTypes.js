@@ -1,0 +1,10 @@
+export const AUTH  = "AUTH";
+export const LOGOUT = "LOGOUT";
+export const UPDATE = "UPDATE";
+export const ERROR = "ERROR";
+export const CLEARERROR = "CLEARERROR"
+export const START_LOADING = "START_LOADING"
+export const STOP_LOADING = "STOP_LOADING"
+export const UPDATE_TEMPLATE = "UPDATE_TEMPLATE"
+export const CREATE_TEMPLATE = "CREATE_TEMPLATE"
+export const START_GAME = "START_GAME"
